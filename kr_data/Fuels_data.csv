@@ -1,0 +1,4 @@
+Fuel,fuel_cost,var_om_cost_per_mwh
+oil,60,1.49
+biooil,60,1.49
+gas,41,2.73
